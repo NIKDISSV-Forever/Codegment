@@ -1,4 +1,4 @@
-from . import CodeEditorApp
+from .app import run
 
 if __name__ == '__main__':
-    CodeEditorApp().run()
+    run()
